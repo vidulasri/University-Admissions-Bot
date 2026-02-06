@@ -1,0 +1,8 @@
+
+{
+  "name": "EduPath - College Admissions Assistant",
+  "description": "A comprehensive college admissions platform featuring an AI-driven chatbot, application tracker, program matching engine, and scholarship database to streamline the student journey.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
